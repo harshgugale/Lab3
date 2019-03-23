@@ -1,0 +1,18 @@
+level	start	end	color	opacity	title	initiation	in	out	children	parents	prof_uid
+1	5047966	5048320	#8e00ff	1.0	Mapper Call select_task_options						20
+1	5049754	5049917	#FFC0CB	1.0	ProfTask <1>						22
+1	5050586	5050592	#FFC0CB	1.0	ProfTask						24
+1	5051573	5051581	#FFC0CB	1.0	ProfTask <1>						26
+1	5053234	5053248	#FFC0CB	1.0	ProfTask <3>						28
+1	5054455	5054462	#FFC0CB	1.0	ProfTask <3>						30
+1	5054573	5054577	#FFC0CB	1.0	ProfTask <4>						32
+1	5055420	5055432	#FFC0CB	1.0	ProfTask <3>						34
+1	5055517	5055671	#00fff6	1.0	__binary_int64_int32_>= <4>						65
+1	5056173	5056181	#FFC0CB	1.0	ProfTask <3>						36
+1	5056290	5056296	#FFC0CB	1.0	ProfTask <4>						38
+1	5056979	5056984	#FFC0CB	1.0	ProfTask <5>						40
+1	5057274	5057283	#FFC0CB	1.0	ProfTask						42
+1	5057541	5057629	#ff000e	1.0	__binary_int64_int64_- <5>						66
+1	5057740	5057748	#FFC0CB	1.0	ProfTask <5>						44
+1	5058028	5058054	#FFC0CB	1.0	ProfTask <1>						46
+1	5058664	5058668	#FFC0CB	1.0	ProfTask						48

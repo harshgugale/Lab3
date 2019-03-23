@@ -1,0 +1,25 @@
+level	start	end	color	opacity	title	initiation	in	out	children	parents	prof_uid
+2	5049385	5049601	#ff8c00	1.0	Deferred Enqueue Task	1					3
+2	5049842	5050520	#d0ff00	1.0	Scheduler	0					5
+2	5050611	5051522	#00fcff	1.0	Task Physical Dependence Analysis	1					6
+2	5052569	5052996	#ff2300	1.0	Logical Dependence Analysis	3					67
+2	5053088	5053166	#333399	1.0	Deferred Ready Trigger	3					8
+2	5053236	5053359	#d0ff00	1.0	Scheduler	0					51
+2	5053424	5053669	#ff2300	1.0	Logical Dependence Analysis	4					52
+2	5053743	5054406	#00fcff	1.0	Task Physical Dependence Analysis	3					9
+1	5053782	5054121	#4f00ff	1.0	Mapper Call map_task for 3	3					49
+2	5054479	5054535	#333399	1.0	Deferred Ready Trigger	4					11
+2	5054589	5054781	#d0ff00	1.0	Scheduler	0					53
+2	5054850	5055114	#00fcff	1.0	Task Physical Dependence Analysis	4					80
+2	5055205	5055372	#006600	1.0	Post-Task Execution	3					12
+2	5055440	5056102	#cdff00	1.0	Deferred Post-Task Execution	3					13
+2	5056194	5056250	#006600	1.0	Post-Task Execution	4					14
+2	5056309	5056525	#cdff00	1.0	Deferred Post-Task Execution	4					81
+2	5056782	5056933	#ff2300	1.0	Logical Dependence Analysis	5					16
+2	5057002	5057059	#333399	1.0	Deferred Ready Trigger	5					82
+2	5057128	5057222	#d0ff00	1.0	Scheduler	0					17
+2	5057301	5057543	#00fcff	1.0	Task Physical Dependence Analysis	5					68
+2	5057641	5057693	#006600	1.0	Post-Task Execution	5					18
+2	5057752	5057955	#cdff00	1.0	Deferred Post-Task Execution	5					69
+2	5058039	5058413	#ff1100	1.0	Trigger Complete	1					54
+2	5058501	5058623	#0dff00	1.0	Top Finish	0					19

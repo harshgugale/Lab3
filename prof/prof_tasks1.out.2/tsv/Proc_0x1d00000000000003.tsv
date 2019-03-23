@@ -1,0 +1,9 @@
+level	start	end	color	opacity	title	initiation	in	out	children	parents	prof_uid
+2	5170673	5170965	#FFC0CB	1.0	ProfTask <1>						22
+2	5173299	5174483	#ffec00	1.0	main <1>						30
+2	5174483	5183240	#ffec00	0.15	main <1> (waiting)						30
+2	5183240	5183525	#ffec00	0.45	main <1> (ready)						30
+2	5183525	5183779	#ffec00	1.0	main <1>						30
+1	5181333	5181344	#FFC0CB	1.0	ProfTask <8>						24
+1	5182419	5182506	#ff001d	1.0	__binary_int64_int64_+ <9>						89
+1	5183097	5183106	#FFC0CB	1.0	ProfTask <9>						26

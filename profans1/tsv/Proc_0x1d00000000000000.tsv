@@ -1,0 +1,46 @@
+level	start	end	color	opacity	title	initiation	in	out	children	parents	prof_uid
+2	5042166	5042443	#00fff9	1.0	Deferred Enqueue Task	1					4
+2	5042666	5043389	#fdff00	1.0	Scheduler	0					28
+2	5043493	5044417	#ff4a00	1.0	Task Physical Dependence Analysis	1					29
+2	5045358	5045766	#00ff63	1.0	Logical Dependence Analysis	3					150
+2	5045844	5045925	#333399	1.0	Deferred Ready Trigger	3					5
+2	5045993	5046111	#fdff00	1.0	Scheduler	0					30
+2	5046185	5046904	#00ff63	1.0	Logical Dependence Analysis	4					151
+2	5046987	5047050	#333399	1.0	Deferred Ready Trigger	4					109
+2	5047116	5047226	#fdff00	1.0	Scheduler	0					110
+2	5047296	5047353	#333399	1.0	Deferred Ready Trigger	5					31
+2	5047411	5047503	#fdff00	1.0	Scheduler	0					32
+2	5047571	5047625	#333399	1.0	Deferred Ready Trigger	6					33
+2	5047681	5047774	#fdff00	1.0	Scheduler	0					111
+2	5047840	5048487	#ff4a00	1.0	Task Physical Dependence Analysis	3					34
+1	5047868	5048216	#00deff	1.0	Mapper Call map_task for 3	3					22
+2	5048558	5048875	#ff4a00	1.0	Task Physical Dependence Analysis	4					7
+2	5048940	5049025	#333399	1.0	Deferred Ready Trigger	7					36
+2	5049112	5049217	#fdff00	1.0	Scheduler	0					37
+2	5049284	5049516	#ff4a00	1.0	Task Physical Dependence Analysis	5					38
+2	5049582	5049762	#ff4a00	1.0	Task Physical Dependence Analysis	6					39
+2	5049827	5050048	#006600	1.0	Post-Task Execution	3					40
+2	5050119	5050700	#d0ff00	1.0	Deferred Post-Task Execution	3					112
+2	5050792	5050860	#d0ff00	1.0	Deferred Post-Task Execution	4					113
+2	5050930	5050974	#d0ff00	1.0	Deferred Post-Task Execution	5					114
+2	5051042	5051084	#d0ff00	1.0	Deferred Post-Task Execution	6					41
+2	5051159	5051442	#ff4a00	1.0	Task Physical Dependence Analysis	7					152
+2	5051509	5051567	#333399	1.0	Deferred Ready Trigger	8					115
+2	5051612	5051716	#fdff00	1.0	Scheduler	0					42
+2	5051780	5051827	#006600	1.0	Post-Task Execution	7					43
+2	5051883	5051938	#d0ff00	1.0	Deferred Post-Task Execution	7					44
+2	5052008	5052257	#ff4a00	1.0	Task Physical Dependence Analysis	8					153
+2	5052322	5052378	#333399	1.0	Deferred Ready Trigger	9					116
+2	5052437	5052531	#fdff00	1.0	Scheduler	0					117
+2	5052598	5052643	#006600	1.0	Post-Task Execution	8					46
+2	5052699	5052753	#d0ff00	1.0	Deferred Post-Task Execution	8					47
+2	5052822	5053058	#ff4a00	1.0	Task Physical Dependence Analysis	9					154
+2	5053123	5053187	#333399	1.0	Deferred Ready Trigger	10					48
+2	5053244	5053337	#fdff00	1.0	Scheduler	0					118
+2	5053403	5053450	#006600	1.0	Post-Task Execution	9					50
+2	5053516	5053571	#d0ff00	1.0	Deferred Post-Task Execution	9					51
+2	5053640	5053828	#ff4a00	1.0	Task Physical Dependence Analysis	10					155
+2	5053916	5053965	#006600	1.0	Post-Task Execution	10					52
+2	5054024	5054225	#d0ff00	1.0	Deferred Post-Task Execution	10					9
+2	5054556	5054934	#cdff00	1.0	Trigger Complete	1					119
+2	5055029	5055145	#d6ff00	1.0	Top Finish	0					53
